@@ -59,5 +59,5 @@ if (duree < dureeMaxRdv) {
     console.log("RDV OK");
   } else {
     console.log("RDV impossible");
-  }*/
+  } */
 
