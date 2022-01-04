@@ -1,4 +1,4 @@
-// Connaître la durée d'un rendez-vous selon une heure de fin de journée, un début de rdv et une durée connue
+//Connaître la durée d'un rendez-vous selon une heure de fin de journée, un début de rdv et une durée connue
 /* Données de base de l'énoncé:
  Heure de fin de la journée: 18h40
  Heure début du RDV: 19h15
